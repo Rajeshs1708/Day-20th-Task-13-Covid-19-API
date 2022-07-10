@@ -1,0 +1,29 @@
+#container{
+    background-color:#B9D9EB;
+}
+.row{
+    padding: 10px;
+}
+.form,h4{
+    text-align: center;
+    border-radius: 25px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0,0.13);
+}
+.content{
+    border-radius: 25px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0,0.13);
+    padding: 20px;
+    margin-top: 25px;
+}
+
+.header{
+    padding-bottom: 20px;
+}
+.height{
+    padding-bottom: 45px;
+}
